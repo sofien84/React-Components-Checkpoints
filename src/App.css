@@ -1,0 +1,9 @@
+.App {
+  background-color: rgb(167, 42, 125);
+}
+.Profile {
+  display: flex;
+  align-content: space-around;
+  align-items: center;
+  text-align: center;
+}
